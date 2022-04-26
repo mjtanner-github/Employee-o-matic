@@ -6,21 +6,25 @@ Student toy dedicated employed management database management system
 ## Installation
 
 Before using the Employee Management Database Management System (DBMS), some assembly is required.  
-Connect to the MySQL server.
+1. Connect to the MySQL server.
 
 ![Connect to the MySQL server.](./resources/images/fig_21.png)
 
-Build the database sourcing schema.sql file.
+2. Build the database sourcing schema.sql file.
 
-![Title Screen](./resources/images/fig_22.png)
+![Build the database sourcing schema.sql file.](./resources/images/fig_22.png)
 
-Populate the database with mock data by sourcing the seeds.sql file.
+3. Populate the database with mock data by sourcing the seeds.sql file.
 
-![Title Screen](./resources/images/fig_23.png)
+![Populate the database with mock data by sourcing the seeds.sql file.](./resources/images/fig_23.png)
 
-![Title Screen](./resources/images/fig_24.png)
+4. Close the mysql connection.
 
-![Title Screen](./resources/images/fig_25.png)
+![Close the mysql connection.](./resources/images/fig_24.png)
+
+5. Install the program dependancies.
+
+!Install the program dependancies.](./resources/images/fig_25.png)
 
 ![Title Screen](./resources/images/fig_26.png)
 
