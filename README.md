@@ -6,12 +6,15 @@ Student toy dedicated employed management database management system
 ## Installation
 
 Connect to the MySQL server.
+
 ![Connect to the MySQL server.](./resources/images/fig_21.png)
 
 Build the database using the resource command.
+
 ![Title Screen](./resources/images/fig_22.png)
 
 Populate the database with mock data by resourcing the seeds file.
+
 ![Title Screen](./resources/images/fig_23.png)
 
 ![Title Screen](./resources/images/fig_24.png)
