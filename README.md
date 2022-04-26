@@ -30,20 +30,21 @@ Before using the Employee Management Database Management System (DBMS), some ass
 
 ![Run the program with 'node'.](./resources/images/fig_26.png)
 
-##Operation
+## Operation
 
-The general menu is presented showing all the assignment requirements.
+The main menu is presented showing all the assignment requirements.
 
-![General Menu](./resources/images/fig_3.png)
+![Main Menu](./resources/images/fig_3.png)
 
 1. Select "Display All Departments."
 
 ![Select "Display All Departments"](./resources/images/fig_2.png)
 
-All departments are displayed.  
+All departments are displayed.
+
 2. Press any key. Then main menu reappears.
 
-![Title Screen](./resources/images/fig_3.png)
+![Main Menu](./resources/images/fig_3.png)
 
 
 ![Title Screen](./resources/images/fig_4.png)
