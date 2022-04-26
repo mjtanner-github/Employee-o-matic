@@ -24,13 +24,19 @@ Before using the Employee Management Database Management System (DBMS), some ass
 
 5. Install the program dependancies.
 
-!Install the program dependancies.](./resources/images/fig_25.png)
+![Install the program dependancies.](./resources/images/fig_25.png)
 
-![Title Screen](./resources/images/fig_26.png)
+6. Finally run the program with 'node'. 
 
-![Title Screen](./resources/images/fig_3.png)
+![Run the program with 'node'.](./resources/images/fig_26.png)
 
-![Title Screen](./resources/images/fig_2.png)
+The general menu is presented showing all the assignment requirements.
+
+![General Menu](./resources/images/fig_3.png)
+
+Select "Display All Departments."
+
+![Select "Display All Departments"](./resources/images/fig_2.png)
 
 ![Title Screen](./resources/images/fig_3.png)
 
