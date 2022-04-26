@@ -2,6 +2,20 @@
 Student toy dedicated employed management database management system
 ![Title Screen](./resources/images/fig_1.png)
 
+![Title Screen](./resources/images/fig_21.png)
+
+![Title Screen](./resources/images/fig_22.png)
+
+![Title Screen](./resources/images/fig_23.png)
+
+![Title Screen](./resources/images/fig_24.png)
+
+![Title Screen](./resources/images/fig_25.png)
+
+![Title Screen](./resources/images/fig_26.png)
+
+![Title Screen](./resources/images/fig_3.png)
+
 ![Title Screen](./resources/images/fig_2.png)
 
 ![Title Screen](./resources/images/fig_3.png)
