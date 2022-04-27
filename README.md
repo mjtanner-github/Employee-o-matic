@@ -36,7 +36,7 @@ The main menu is presented showing all the assignment requirements.
 
 ![Main Menu](./resources/images/fig_3.png)
 
-1. Select "Display All Departments."
+1. Select "Display All Departments".
 
 ![Select "Display All Departments"](./resources/images/fig_2.png)
 
@@ -46,23 +46,38 @@ All departments are displayed.
 
 ![Main Menu](./resources/images/fig_3.png)
 
-3. Select "Display All Roles"
+3. Select "Display All Roles".
 
 All roles are displayed. 
 
-![Title Screen](./resources/images/fig_4.png)
+![Select "Display All Roles"](./resources/images/fig_4.png)
 
-4. Again press any key and the main menu again reappears.
+Again press any key and the main menu again reappears.
 
-5. Select "Display All Employees.
+4. Select "Display All Employees".
 
 All employees are displayed.
 
-![Title Screen](./resources/images/fig_5.png)
+![Select "Display All Employees"](./resources/images/fig_5.png)
 
-![Title Screen](./resources/images/fig_6.png)
+Again press any key and the main menu again reappears.
 
-![Title Screen](./resources/images/fig_7.png)
+5. Select "Add A Department".
+
+You are prompted to enter the name for the new department and the new department is added to the database.  
+
+![Select "Add A Department"](./resources/images/fig_6.png)
+
+Again press any key and the main menu again reappears.
+
+6. Select "Add A New Role".
+
+You are prompted to enter a name and salary for the new role and select the department for which the role is to be associated. The new role is added to the database.
+
+![Select "Add A New Role"](./resources/images/fig_7.png)
+
+Again press any key and the main menu again reappears.
+
 
 ![Title Screen](./resources/images/fig_8.png)
 
