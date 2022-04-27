@@ -26,7 +26,7 @@ Employee-o-matic is a student toy dedicated employee management database managem
 
  [Add A New Employee](#select-add-a-new-employee) 
 
- [Update An Employees Role](#select-update-an-employee%27s-role) 
+ [Update An Employee Role](#select-update-an-employee-role) 
 
  [Exit The System](#select-exit-the-system) 
 
@@ -111,7 +111,7 @@ You are prompted to enter the new employee's first and last name, select the new
 
 ![Select "Add A New Employee"](./resources/images/fig_8.png)
 
-#### Select "Update An Employee's Role".
+#### Select "Update An Employee Role".
 
 You are promted to select the employee's name, select the employee's new role and manager. The employee's role is updated in the database.
 
