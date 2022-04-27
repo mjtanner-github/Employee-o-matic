@@ -14,7 +14,7 @@ Employee-o-matic is a student toy dedicated employee management database managem
 
  [Operation](#operation) 
 
- [Display All Department](#Select "Display All Departments") 
+ [Display All Department](#Select-"Display-All-Departments") 
 
  [Attributions](#attributions) 
 
