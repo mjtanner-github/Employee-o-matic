@@ -3,6 +3,7 @@ Student toy dedicated employed management database management system
 ![Title Screen](./resources/images/fig_1.png)
 
 #### [GitHub Repository](https://github.com/mjtanner-github/Employee-o-matic).
+#### [License](./LICENSE).
 
 ## Introduction
 
