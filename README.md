@@ -46,8 +46,17 @@ All departments are displayed.
 
 ![Main Menu](./resources/images/fig_3.png)
 
+3. Select "Display All Roles"
+
+All roles are displayed. 
 
 ![Title Screen](./resources/images/fig_4.png)
+
+4. Again press any key and the main menu again reappears.
+
+5. Select "Display All Employees.
+
+All employees are displayed.
 
 ![Title Screen](./resources/images/fig_5.png)
 
