@@ -16,19 +16,19 @@ Employee-o-matic is a student toy dedicated employee management database managem
 
  [Display All Department](#select-display-all-departments) 
 
- [Attributions](#attributions) 
+ [Display All Role](#select-display-all-roles") 
 
- [Tutorials](#tutorials) 
+ [Display All Employees](#select-display-all-employees) 
 
- [License](#license) 
+ [Add A Department](#select-add-a-department) 
 
- [Badges](#badges) 
+ [Add A New Role](#select-add-a-new-role) 
 
- [Features](#features) 
+ [Add A New Employee](#select-add-a-new-employee) 
 
- [Contribute](#contribute) 
+ [Update An Employee's Role](#select-update-an-employee's-role) 
 
- [Tests](#tests) 
+ [Exit The System](#select-exit-the-system) 
 
 ## Installation
 
