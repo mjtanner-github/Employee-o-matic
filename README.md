@@ -4,7 +4,7 @@ Student toy dedicated employed management database management system
 
 ## Introduction
 
-Employee-o-matic /U+00AE is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
+Employee-o-matic is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
 
 ## Installation
 
@@ -39,17 +39,17 @@ The main menu is presented showing all the assignment requirements.
 
 ![Main Menu](./resources/images/fig_3.png)
 
-1. Select "Display All Departments".
+#### Select "Display All Departments".
 
 ![Select "Display All Departments"](./resources/images/fig_2.png)
 
 All departments are displayed.
 
-2. Press any key. Then main menu reappears.
+####  Press any key. Then main menu reappears.
 
 ![Main Menu](./resources/images/fig_3.png)
 
-3. Select "Display All Roles".
+####  Select "Display All Roles".
 
 All roles are displayed. 
 
@@ -57,7 +57,7 @@ All roles are displayed.
 
 Again press any key and the main menu again reappears.
 
-4. Select "Display All Employees".
+####  Select "Display All Employees".
 
 All employees are displayed.
 
@@ -65,7 +65,7 @@ All employees are displayed.
 
 Again press any key and the main menu again reappears.
 
-5. Select "Add A Department".
+####  Select "Add A Department".
 
 You are prompted to enter the name for the new department and the new department is added to the database.  
 
@@ -73,7 +73,7 @@ You are prompted to enter the name for the new department and the new department
 
 Again press any key and the main menu again reappears.
 
-6. Select "Add A New Role".
+####  Select "Add A New Role".
 
 You are prompted to enter a name and salary for the new role and select the department for which the role is to be associated. The new role is added to the database.
 
@@ -81,9 +81,20 @@ You are prompted to enter a name and salary for the new role and select the depa
 
 Again press any key and the main menu again reappears.
 
+#### Select "Add A New Employee". 
 
-![Title Screen](./resources/images/fig_8.png)
+You are prompted to enter the new employee's first and last name, select the new employee's role and manager. The new employee is added to the database. 
 
-![Title Screen](./resources/images/fig_9.png)
+![Select "Add A New Employee"](./resources/images/fig_8.png)
 
-![Title Screen](./resources/images/fig_10.png)
+#### Select "Update An Employee's Role".
+
+You are promted to select the employee's name, select the employee's new role and manager. The employee's role is updated in the database.
+
+![Select "Update An Employee's Role"](./resources/images/fig_9.png)
+
+#### Select "Exit The System".
+
+The database connection and application are closed.
+
+![Select "Exit The System"](./resources/images/fig_10.png)
