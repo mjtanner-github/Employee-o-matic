@@ -4,7 +4,7 @@ Student toy dedicated employed management database management system
 
 ## Introduction
 
-Employee-o-matic &#174 is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
+Employee-o-matic /U+00AE is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
 
 ## Installation
 
