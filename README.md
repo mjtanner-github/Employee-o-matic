@@ -2,12 +2,33 @@
 Student toy dedicated employed management database management system
 ![Title Screen](./resources/images/fig_1.png)
 
-#### [GitHub Repository](https://github.com/mjtanner-github/Employee-o-matic).
-#### [License](./LICENSE).
+#### [GitHub Repository](https://github.com/mjtanner-github/Employee-o-matic)
+#### [License](./LICENSE)
 
 ## Introduction
 
-Employee-o-matic is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
+Employee-o-matic is a student toy dedicated employee management database management system (DBMS) intended to exercise command line interface and fundamental database interaction skills (record creation, retrieval, alteration and deletion) as well as rootamentary logical operations with "join".
+
+## Table of Contents
+[Installation](#installation) 
+
+ [Operation](#operation) 
+
+ [Display All Department](#Select "Display All Departments") 
+
+ [Attributions](#attributions) 
+
+ [Tutorials](#tutorials) 
+
+ [License](#license) 
+
+ [Badges](#badges) 
+
+ [Features](#features) 
+
+ [Contribute](#contribute) 
+
+ [Tests](#tests) 
 
 ## Installation
 
@@ -32,7 +53,7 @@ Before using the Employee Management Database Management System (DBMS), some ass
 
 ![Install the program dependancies.](./resources/images/fig_25.png)
 
-6. Finally run the program with 'node'. 
+6. Finally, run the program with 'node'. 
 
 ![Run the program with 'node'.](./resources/images/fig_26.png)
 
