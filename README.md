@@ -26,7 +26,7 @@ Employee-o-matic is a student toy dedicated employee management database managem
 
  [Add A New Employee](#select-add-a-new-employee) 
 
- [Update An Employee's Role](#select-update-an-employee's-role) 
+ [Update An Employees Role](#select-update-an-employee's-role) 
 
  [Exit The System](#select-exit-the-system) 
 
